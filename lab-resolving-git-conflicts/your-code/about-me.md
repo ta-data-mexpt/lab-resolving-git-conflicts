@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Who am I
+=======
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra laoreet lorem et dapibus. Integer auctor dignissim egestas. Ut id purus neque. Pellentesque imperdiet lacus in libero laoreet, at tempus felis tristique. Cras fermentum erat a dui vulputate gravida. Nulla aliquet nisi interdum nulla pretium, ac vestibulum diam congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. XXXXXX
+>>>>>>> af571cb519dac267ea2e788d9cd9fd388ba8b807
 
 * Where are you from?
 I am from Germany, from the Czech, German and Austrian Borderlands.
