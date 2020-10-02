@@ -14,3 +14,4 @@ Como les comenté, actualmente empecé mi propia empresa, así que me gustaría 
 A pesar de esto no estoy cerrada a que si después de este bootcamp se me abren más puertas y oportunidades de negocio interesantes, lo tomaría viendo la manera al mismo tiempo de no descuidar mi empresa.
 
 Estoy feliz de porfin haber entrado al curso y espero lo mejor del curso pero también de mi misma.
+Quite los 2 ultimos parrafos de este texto para ejercicio de lab
