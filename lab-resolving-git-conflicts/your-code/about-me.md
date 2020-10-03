@@ -1,3 +1,4 @@
+
 # Nay iturbe 
 
 * Im from Cuernavaca
@@ -8,3 +9,4 @@
 # After the bootcamp?
 
 * I wanna become a data engineer 
+
