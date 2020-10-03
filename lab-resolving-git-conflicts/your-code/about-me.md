@@ -11,6 +11,7 @@
 
 # What will I do after the bootcamp?
 
+<<<<<<< HEAD
 * Which industry will you seek employment in? I will seek employment in the emerging renewable energy industry.
 * What will your future role look like? Intreting data to enhance the energy output or efficiency of renewable sources. 
 * What is your career goal? To have a good run in renewable energy.
