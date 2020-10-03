@@ -3,7 +3,7 @@
 * Where are you from?
   CDMX
 * What do you do?
-  Business, right now I am at a logistics company. 
+  Business, right now I am at a logistics company.
 * Do you have previous experience with technology/data?
   Not too much. Some tableu and R.
 
