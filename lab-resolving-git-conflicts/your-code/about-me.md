@@ -13,4 +13,4 @@
 
 * Which industry will you seek employment in? Financial advisory
 * What will your future role look like? Managing the Analytics team within my area
-* What is your career goal? Develop my skills around Data Analytics and applying the efficiently
+* What is your career goal? Develop my skills around Data Analytics and applying them efficiently
