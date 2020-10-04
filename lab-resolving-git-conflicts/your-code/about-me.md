@@ -1,5 +1,3 @@
->>>>>>> d0b4158087493ed5711156cfeff5e08c82628e96
-
 * Where are you from? México
 * What do you do? Profesor
 * Do you have previous experience with technology/data? No
