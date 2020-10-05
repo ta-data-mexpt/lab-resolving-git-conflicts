@@ -1,4 +1,4 @@
-# Who am I
+# Who am I?
 
 * Where are you from?
 
@@ -12,7 +12,7 @@
 
 >>> Prior Ironhack, my only real experience with technology and data was using Excel and Access. 
 
-# Why am I here
+# Why am I here?
 
 * What has brought you to Ironhack?
 
@@ -37,3 +37,5 @@
 >>> My main career goal is to specialize in Machine Learning.
 
 # ...
+
+
