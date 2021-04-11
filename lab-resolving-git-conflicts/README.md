@@ -66,9 +66,6 @@ git pull origin master
 
 If your local branch is lagged behind, git will auto merge the codes in your local branch with remote. If the latest code in the remote branch has conflicts with your local branch, you will see warnings and you will need to resolve the conflicts in the next step. However, if there is no conflict or auto merging is successful, you can skip to Step 5.
 
-### Step 4 - [OPTIONAL] Resolve Conflicts
-
-If you encounter conflicts when you sync your branch with the remote, fix the conflicts as the lesson showed you. After resolving the conflict, commit your changes and push your code back to remote.
 
 ### Step 5 - Create Conflicting Changes
 
