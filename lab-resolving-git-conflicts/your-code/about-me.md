@@ -1,3 +1,4 @@
+
 # Who am I
 
 * Where are you from?
@@ -22,6 +23,3 @@ I don't have a specific industry in mind.
 My ideal role would be one where I solve interesting problems in an industry setting.
 * What is your career goal?
 My goal is to find a stable, well-paid and fulfilling job, and maybe lead a team in the future.
-
-
-
