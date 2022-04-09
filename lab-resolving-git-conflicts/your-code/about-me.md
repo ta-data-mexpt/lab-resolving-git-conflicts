@@ -7,3 +7,5 @@ Espero aprender sobre servidores, alimentar servidores, hacer reportes visualmen
 Me gustan varias industrias, la industria financiera me gusta, pero la versión moderna, tipo cuentas digitales. La verdad mi intención es trabajar en una empresa joven y moderna, poco jerárquica
 Me veo trabajando con datos sin dejar de interactuar con otras personas, ya que creo que poseo buenas habilidades bkandas
 Pertenecer a una organización moderna y joven, donde se preocupen de que sus trabajadores estén felices y de esa forma cumplan las metas y objetivos, idealmente trabajando quizás desde otro país, y donde exista la posibilidar de ir creciendo y desarrollándome profesionalmente
+
+HOLA, CREO QUE ESTOY CON COVID
