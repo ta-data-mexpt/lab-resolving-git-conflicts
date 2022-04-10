@@ -1,3 +1,4 @@
+
 # My name is Dennis
 
 * Where are you from? Mexico
@@ -14,3 +15,5 @@
 * Which industry will you seek employment in? I would like to be in the same company, but different area
 * What will your future role look like? on strategy
 * What is your career goal? Keep improving and join into a data driven team 
+
+Resuelto?
