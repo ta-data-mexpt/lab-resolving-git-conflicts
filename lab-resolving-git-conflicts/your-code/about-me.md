@@ -1,7 +1,58 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra laoreet lorem et dapibus. Integer auctor dignissim egestas. Ut id purus neque. Pellentesque imperdiet lacus in libero laoreet, at tempus felis tristique. Cras fermentum erat a dui vulputate gravida. Nulla aliquet nisi interdum nulla pretium, ac vestibulum diam congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus lacus risus, sodales vitae viverra quis, maximus ac ipsum. Sed consequat viverra mattis. Curabitur iaculis varius mollis.
+# Who am I
 
-Ut porttitor iaculis tellus bibendum euismod. Morbi porta, ante nec tempus porta, felis mi faucibus lacus, sed tristique purus nunc sed est. Aenean pulvinar urna ut lacus interdum aliquam. Pellentesque sit amet magna accumsan, sagittis metus a, volutpat velit. Mauris vitae ex vehicula, posuere nisi sed, sagittis nunc. Ut scelerisque, mi non tristique tristique, mi enim luctus nunc, eu mattis sem quam auctor nunc. Donec lobortis tellus eget blandit ultricies. Vivamus euismod metus eget leo blandit, at malesuada magna efficitur. Praesent sodales faucibus mi, ullamcorper ultrices orci. Vivamus maximus malesuada massa, nec placerat leo feugiat vel. Nam vitae eleifend enim. Nullam interdum ipsum velit, vitae faucibus lectus blandit euismod.
+Soy Gabriela De La Cerda, nacida en la Ciudad de México en 1981.
 
-Suspendisse ut malesuada ex. Nulla ultricies nisl et nisi rhoncus sollicitudin. Vestibulum maximus iaculis ligula, nec commodo nunc ullamcorper nec. Duis quis condimentum sapien. Cras vestibulum interdum felis eu auctor. Quisque semper, magna at dapibus faucibus, felis risus semper ligula, id aliquam lectus ligula vel nisi. In hac habitasse platea dictumst. Donec arcu sapien, suscipit ac dictum et, imperdiet id tortor. Maecenas ornare sodales interdum. Mauris dictum felis eu eros vestibulum cursus. Phasellus accumsan, turpis ut malesuada sollicitudin, augue leo venenatis ante, vel convallis tellus diam sit amet lacus. Aenean eu mauris eros. Praesent ante lacus, gravida sit amet tellus nec, laoreet ultrices lacus. Integer commodo semper vestibulum. Fusce felis massa, consectetur facilisis rutrum nec, pulvinar et nisi.
 
-Morbi fermentum ultricies tortor, vehicula ultrices eros elementum a. Duis ornare aliquam facilisis. Proin aliquam tincidunt odio vitae dignissim. Sed malesuada lacinia massa, nec blandit urna auctor elementum. Duis auctor non tortor in consequat. Mauris id vestibulum risus. In eget erat sed lacus efficitur viverra sed eu est. Aliquam interdum consequat molestie. Aliquam metus nisi, blandit non semper ut, blandit vel leo. Cras dictum turpis erat, sed iaculis ligula facilisis dapibus. Aliquam posuere dignissim fermentum. Praesent at neque sit amet lectus ornare iaculis. Curabitur id urna quis lorem varius ultrices eu sit amet sapien. Curabitur maximus volutpat suscipit. Proin imperdiet elementum lacus a eleifend. Sed tempor lacus posuere diam vehicula iaculis.
+Nací de sexo asignado masculino, pero actualmente soy de género femenino, mujer en transición.
+
+
+Soy abogada titulada en el año 2005 por la Universidad La Salle de la Ciudad de México.
+
+
+Tengo 17 años de experiencia profesional en litigio civil y mercantil, con sus respectivos derivados constitucionales.
+
+A partir de mi experiencia profesional he tenido permanente contacto y he dado habitual uso a conjuntos masivos de datos, 
+
+estos datos son los propios de la existencia jurídica de cada uno de los asuntos que he atendido, más sus respectivas generaciones
+
+de datos a partir de su exposición al estresante entorno de la contienda judicial, de la cual se derivan múltiples y abundantes
+
+nuevas incorporaciones de datos para cada uno de los casos, conformadas desde la configuración modificada del vínculo legal, 
+
+la reinterpretación del origen, finalidades y consecuencias de tales vínculos jurídicos, y la ecuación final de su resolución judicial,
+
+misma que se constituye en nueva ley particular y vinculante para las partes involucradas y sus respectivos equipos legales.
+
+Ese ha sido mi contacto con los datos masivos o diversos.
+
+
+
+Actualmente trabajo para PayPal en el área de GFCCP (Global Financial Crimes and Customer Protection), bajo la dirección de Aaron Karczmer.
+
+Esta posición me permite el contacto diario con las herramientas tecnológicas que PayPal usa para la prevención del delito financiero global.
+
+
+# Why am I here
+
+
+Ironhack me atrajo por su prestigio, ya siendo reconocida como una institución de alto grado de exigibilidad, rendimiento y entrega para sus egresades.
+
+Me fascina el reto que supone el cursar una preparación intensiva y orientada al LBD (Learn By Doing) que conlleva el hacer el Data Analysis Bootcamp.
+
+Lo que espero aprender de este Bootcamp es la estructura inicial de conocimientos, mindset y capacidades prácticas, para mi incorporación al mundo de la 
+
+ciencia del análisis de datos digitales y su respectiva programación computacional.
+
+
+
+# What will I do after the bootcamp
+
+
+Desarrollarme profesionalmente en el mundo de la ciencia de datos. Mi abogacía me apasiona y la seguiré haciendo en un formato boutique, para clientes
+
+selectos y añejos, pero en adelante desarrollaré mi posición dentro de PayPal, utilizando las capacidades desarrolladas durante el bootcamp, aunque desde
+
+luego no descarto el contratarme con diversos empleadores, y también pretendo escribir alguna solución digital global que se convierta en un Unicornio.
+
+
+
