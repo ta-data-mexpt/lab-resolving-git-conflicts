@@ -1,0 +1,1 @@
+Hola! mi nombre es Humberto Caballero, soy economista de la Universidad Metropolitana en Venezuela, actualmente tengo un peque;o emprendimiento de alimentos aqu[i en mi pa[is, sin embargo, deseo extender mis fronteras y mi mejor manera de hacerlo es en el area de la tecnologia.
